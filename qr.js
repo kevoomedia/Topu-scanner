@@ -59,32 +59,28 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: 'PANTHER;;;' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-*𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
-*𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃*
-*𝙊𝙒𝙉𝙀𝙍 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
+*Këvøø-Md Connected successfully*
+*Thank you for choosing Këvøø-Md*
+*Deploy your bot to start Enjoying*
 ____________________________________
 ╔════◇
-║『 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
+║『 Këvøø-Md is connected 
 ║ YOUR SESSION IS READY. COPY IT  
 ║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://youtube.com/@ibrahimaitech_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/Ibrahimadamstech_
+║ ❒ owner:_https://wa.me/255694854739_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech_
+║ ❒ *Repo*: _https://github.com/kevoomedia/k-v--Md_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS_
-
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
-
-║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/ibrahim_tech_official_
-
-║ 🐯🐯🐯
+ |❒ whatsapp group:_https://chat.whatsapp.com/BZmwl30gccmGYushBf9dc3_
+ 
+ |❒ Whatsapp chanell:_https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O_
+║ 😜😜
 ╚════════════════════╝ 
- *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
+ *©Këvøø-Md*
 ___________________________________
 
 _Don't Forget To Give Star⭐ To My Repo_`
